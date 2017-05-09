@@ -1,0 +1,34 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="profile.com" resolutions="1x" timestamp="1494329830671">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4209924090" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="214124400" seo="true" ref="index"/>
+    <file name="2.jpg" crc="4142976631" seo="true" ref="index"/>
+    <file name="3.jpg" crc="4278377693" seo="true" ref="index"/>
+    <file name="prof_pic-crop-u301.jpg" crc="3922448118" ref="index"/>
+    <file name="road.jpg" crc="112015811" seo="true" ref="index"/>
+    <file name="cactus.jpg" crc="4005127507" seo="true" ref="index"/>
+    <file name="up-circular-512.jpg" crc="4196754133" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="226835621" seo="true" mt="1494329820053" redirect="true"/>
+</manifest>
